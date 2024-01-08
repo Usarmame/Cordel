@@ -97,6 +97,7 @@ section#img1{
     background-image: url('../imagens/background001.jpg');
     background-size: cover;
     background-position: right bottom;
+    border-radius: 5px;
 }
 
 abbr{
