@@ -69,6 +69,7 @@ section.imagem > p{
     padding: 10px;
     text-shadow: 2px 2px 0px #000;
     display:inline-block ;
+    border-radius: 5px;
 }
 
 section p{
@@ -98,7 +99,6 @@ section#img1{
     background-image: url('../imagens/background001.jpg');
     background-size: cover;
     background-position: right bottom;
-    border-radius: 5px;
 }
 
 abbr{
